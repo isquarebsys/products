@@ -6,7 +6,7 @@ var logoutDiv = document.getElementById("logout_div");
 var loginDiv = document.getElementById("login_div");
 
 var config = {
-	apiKey: "AIzaSyCmRB7vloloJImFPKknNsjhonkXUgBgY-k",
+	apiKey: "key",
 	authDomain: "metasquare-crm.firebaseio.com",
 	databaseURL: "https://metasquare-crm.firebaseio.com",
 	projectId:"metasquare-crm"
