@@ -17,3 +17,4 @@
 
 # Node Ignore
 **/node_modules
+node/metasquare-crm/public/js/firebase/i2bsys_fb_login.js
