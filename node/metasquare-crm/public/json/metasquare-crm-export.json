@@ -1,275 +1,371 @@
 {
-  "collection": {
-    "13-1-2019_-LW4zakKFCxncqws-ZIJ": {
-      "1_date": "13-Jan-19",
-      "2_customer_name": "Sundar",
-      "3_amount_collected": "5000",
-      "4_entered_by": "Vijay [Employee]"
+  "collection" : {
+    "13-1-2019_-LW4zakKFCxncqws-ZIJ" : {
+      "1_date" : "13-Jan-19",
+      "2_customer_name" : "Sundar",
+      "3_amount_collected" : "5000",
+      "4_entered_by" : "Vijay [Employee]"
     },
-    "13-1-2019_-LW4zhcdQyNxgyK2XPt2": {
-      "1_date": "13-Jan-19",
-      "2_customer_name": "Sundar",
-      "3_amount_collected": "10000",
-      "4_entered_by": "Admin [isquare]"
+    "13-1-2019_-LW4zhcdQyNxgyK2XPt2" : {
+      "1_date" : "13-Jan-19",
+      "2_customer_name" : "Sundar",
+      "3_amount_collected" : "10000",
+      "4_entered_by" : "Admin [isquare]"
     },
-    "13-1-2019_-LW5QuyxSA5eo4x5yORk": {
-      "1_date": "13-jan-19",
-      "2_customer_name": "Vijay",
-      "3_amount_collected": "3000",
-      "4_entered_by": "Vijay"
+    "13-1-2019_-LW5QuyxSA5eo4x5yORk" : {
+      "1_date" : "13-jan-19",
+      "2_customer_name" : "Vijay",
+      "3_amount_collected" : "3000",
+      "4_entered_by" : "Vijay"
     },
-    "27-12-2019_-Lx6JlzDeTprq_qacRkK": {
-      "1_date": "27-dec-2019",
-      "2_customer_name": "Bhel",
-      "3_amount_collected": "8000",
-      "4_entered_by": "Isquare"
+    "27-12-2019_-Lx6JlzDeTprq_qacRkK" : {
+      "1_date" : "27-dec-2019",
+      "2_customer_name" : "Bhel",
+      "3_amount_collected" : "8000",
+      "4_entered_by" : "Isquare"
+    },
+    "28-12-2019_-LxBKbuLlp-qno-lalZw" : {
+      "1_date" : "28-dec-2019",
+      "2_customer_name" : "Vijay",
+      "3_amount_collected" : "9000",
+      "4_entered_by" : "Vijay"
     }
   },
-  "collection_assignee": {
-    "13-1-2019_-LW4zakKFCxncqws-ZIJ": "p6.vijayakumar@gmail.com",
-    "13-1-2019_-LW4zhcdQyNxgyK2XPt2": "isquarebsys@gmail.com",
-    "13-1-2019_-LW5QuyxSA5eo4x5yORk": "isquarebsys@gmail.com",
-    "27-12-2019_-Lx6JlzDeTprq_qacRkK": "isquarebsys@gmail.com"
+  "collection_assignee" : {
+    "13-1-2019_-LW4zakKFCxncqws-ZIJ" : "p6.vijayakumar@gmail.com",
+    "13-1-2019_-LW4zhcdQyNxgyK2XPt2" : "isquarebsys@gmail.com",
+    "13-1-2019_-LW5QuyxSA5eo4x5yORk" : "isquarebsys@gmail.com",
+    "27-12-2019_-Lx6JlzDeTprq_qacRkK" : "isquarebsys@gmail.com",
+    "28-12-2019_-LxBKbuLlp-qno-lalZw" : "isquarebsys@gmail.com"
   },
-  "collection_comments": {
-    "13-1-2019_-LW4zhcdQyNxgyK2XPt2": {
-      "1547371093935": "Test",
-      "1547371126100": "Comment 2"
+  "collection_comments" : {
+    "13-1-2019_-LW4zhcdQyNxgyK2XPt2" : {
+      "1547371093935" : "Test",
+      "1547371126100" : "Comment 2"
     }
   },
-  "collection_status": {
-    "13-1-2019_-LW4zakKFCxncqws-ZIJ": "Close",
-    "13-1-2019_-LW4zhcdQyNxgyK2XPt2": "Close",
-    "13-1-2019_-LW5QuyxSA5eo4x5yORk": "Close",
-    "27-12-2019_-Lx6JlzDeTprq_qacRkK": "Open"
+  "collection_status" : {
+    "13-1-2019_-LW4zakKFCxncqws-ZIJ" : "Close",
+    "13-1-2019_-LW4zhcdQyNxgyK2XPt2" : "Open",
+    "13-1-2019_-LW5QuyxSA5eo4x5yORk" : "Close",
+    "27-12-2019_-Lx6JlzDeTprq_qacRkK" : "Open",
+    "28-12-2019_-LxBKbuLlp-qno-lalZw" : "Close"
   },
-  "complaints": {
-    "12-2-2018_-L57NR5_wwP8CkG2Opv0": {
-      "1_visit_date": "Reported Date",
-      "2_customer_name": "Vijay",
-      "3_description": "Fields order test",
-      "4_customer_address": "Geru",
-      "5_closed_date": ""
+  "complaints" : {
+    "12-2-2018_-L57NR5_wwP8CkG2Opv0" : {
+      "1_visit_date" : "Reported Date",
+      "2_customer_name" : "Vijay",
+      "3_description" : "Fields order test",
+      "4_customer_address" : "Geru",
+      "5_closed_date" : ""
     },
-    "12-2-2018_-L57VcBL5rReLBjunO2M": {
-      "1_visit_date": "12-2-18",
-      "2_customer_name": "Vijay",
-      "3_description": "Form Clear Test 1",
-      "4_customer_address": "",
-      "5_closed_date": ""
+    "12-2-2018_-L57VcBL5rReLBjunO2M" : {
+      "1_visit_date" : "12-2-18",
+      "2_customer_name" : "Vijay",
+      "3_description" : "Form Clear Test 1",
+      "4_customer_address" : "",
+      "5_closed_date" : ""
     },
-    "12-2-2018_-L57W-NSpCRL1J7DrOm7": {
-      "1_visit_date": "12-2-18",
-      "2_customer_name": "Vijay",
-      "3_description": "Form Clear Test 2",
-      "4_customer_address": "Geru",
-      "5_closed_date": "12-2-18"
+    "12-2-2018_-L57W-NSpCRL1J7DrOm7" : {
+      "1_visit_date" : "12-2-18",
+      "2_customer_name" : "Vijay",
+      "3_description" : "Form Clear Test 2",
+      "4_customer_address" : "Geru",
+      "5_closed_date" : "12-2-18"
     },
-    "12-2-2018_-L58NQdZC0RVcjUbwkX1": {
-      "1_visit_date": "12-2-18",
-      "2_customer_name": "Selva",
-      "3_description": "Dynamic Dropdown Test",
-      "4_customer_address": "Geru",
-      "5_closed_date": "12-2-18"
+    "12-2-2018_-L58NQdZC0RVcjUbwkX1" : {
+      "1_visit_date" : "12-2-18",
+      "2_customer_name" : "Selva",
+      "3_description" : "Dynamic Dropdown Test",
+      "4_customer_address" : "Geru",
+      "5_closed_date" : "12-2-18"
     },
-    "12-2-2018_-L58UZUYu4jZjftmhmhl": {
-      "1_visit_date": "12-2-18",
-      "2_customer_name": "Selva",
-      "3_description": "Mobile Test",
-      "4_customer_address": "Geru",
-      "5_closed_date": ""
+    "12-2-2018_-L58UZUYu4jZjftmhmhl" : {
+      "1_visit_date" : "12-2-18",
+      "2_customer_name" : "Selva",
+      "3_description" : "Mobile Test",
+      "4_customer_address" : "Geru",
+      "5_closed_date" : ""
     },
-    "13-1-2019_-LW5Nkzp48Lcd6LvsaDs": {
-      "1_visit_date": "13-Jan-19",
-      "2_customer_name": "Selva",
-      "3_description": "Test",
-      "4_customer_address": "Test",
-      "5_closed_date": ""
+    "13-1-2019_-LW5Nkzp48Lcd6LvsaDs" : {
+      "1_visit_date" : "13-Jan-19",
+      "2_customer_name" : "Selva",
+      "3_description" : "Test",
+      "4_customer_address" : "Test",
+      "5_closed_date" : ""
+    },
+    "28-12-2019_-Lx8Rx0GMaabD69JCLtu" : {
+      "1_visit_date" : "28-dec-2019",
+      "2_customer_name" : "Select Customer Name",
+      "3_description" : "Offline test",
+      "4_customer_address" : "Vijay",
+      "5_closed_date" : ""
     }
   },
-  "complaints_assignee": {
-    "12-2-2018_-L57NR5_wwP8CkG2Opv0": "isquarebsys@gmail.com",
-    "12-2-2018_-L57VcBL5rReLBjunO2M": "isquarebsys@gmail.com",
-    "12-2-2018_-L57W-NSpCRL1J7DrOm7": "isquarebsys@gmail.com",
-    "12-2-2018_-L58NQdZC0RVcjUbwkX1": "isquarebsys@gmail.com",
-    "12-2-2018_-L58UZUYu4jZjftmhmhl": "isquarebsys@gmail.com",
-    "13-1-2019_-LW5Nkzp48Lcd6LvsaDs": "p6.vijayakumar@gmail.com"
+  "complaints_assignee" : {
+    "12-2-2018_-L57NR5_wwP8CkG2Opv0" : "isquarebsys@gmail.com",
+    "12-2-2018_-L57VcBL5rReLBjunO2M" : "isquarebsys@gmail.com",
+    "12-2-2018_-L57W-NSpCRL1J7DrOm7" : "isquarebsys@gmail.com",
+    "12-2-2018_-L58NQdZC0RVcjUbwkX1" : "isquarebsys@gmail.com",
+    "12-2-2018_-L58UZUYu4jZjftmhmhl" : "isquarebsys@gmail.com",
+    "13-1-2019_-LW5Nkzp48Lcd6LvsaDs" : "p6.vijayakumar@gmail.com",
+    "28-12-2019_-Lx8Rx0GMaabD69JCLtu" : "isquarebsys@gmail.com"
   },
-  "complaints_status": {
-    "12-2-2018_-L57NR5_wwP8CkG2Opv0": "Closed",
-    "12-2-2018_-L57VcBL5rReLBjunO2M": "Open",
-    "12-2-2018_-L57W-NSpCRL1J7DrOm7": "Closed",
-    "12-2-2018_-L58NQdZC0RVcjUbwkX1": "Open",
-    "12-2-2018_-L58UZUYu4jZjftmhmhl": "Open",
-    "13-1-2019_-LW5Nkzp48Lcd6LvsaDs": "Open"
+  "complaints_status" : {
+    "12-2-2018_-L57NR5_wwP8CkG2Opv0" : "Closed",
+    "12-2-2018_-L57VcBL5rReLBjunO2M" : "Open",
+    "12-2-2018_-L57W-NSpCRL1J7DrOm7" : "Closed",
+    "12-2-2018_-L58NQdZC0RVcjUbwkX1" : "Open",
+    "12-2-2018_-L58UZUYu4jZjftmhmhl" : "Open",
+    "13-1-2019_-LW5Nkzp48Lcd6LvsaDs" : "Open",
+    "28-12-2019_-Lx8Rx0GMaabD69JCLtu" : "Open"
   },
-  "config": {
-    "department_and_members": {
-      "Complaints": {
-        "234324wer": "p6.vijayakumar@gmail.com",
-        "234fafdsfd": "isquarebsys@gmail.com"
+  "config" : {
+    "department_and_members" : {
+      "Complaints" : {
+        "234324wer" : "p6.vijayakumar@gmail.com",
+        "234fafdsfd" : "isquarebsys@gmail.com"
       },
-      "Sales": {
-        "242asdfdsf": "p6.vijayakumar@gmail.com",
-        "dsfdasfre": "isquarebsys@gmail.com"
+      "Sales" : {
+        "242asdfdsf" : "p6.vijayakumar@gmail.com",
+        "dsfdasfre" : "isquarebsys@gmail.com"
       }
     },
-    "dropdowns": {
-      "customers": [null, "Select Customer Name", "Selva"]
+    "dropdowns" : {
+      "customers" : [ null, "Select Customer Name", "Selva" ]
     },
-    "forms": {
-      "collection": {
-        "fields": {
-          "1_date": {
-            "hint": "Reported Date [dd-MMM-yyyy]",
-            "label": "Reported Date [dd-MMM-yyyy]",
-            "type": "Date"
+    "forms" : {
+      "collection" : {
+        "fields" : {
+          "1_date" : {
+            "hint" : "Reported Date [dd-MMM-yyyy]",
+            "label" : "Reported Date [dd-MMM-yyyy]",
+            "type" : "Date"
           },
-          "2_customer_name": {
-            "hint": "Customer Name",
-            "label": "Customer Name",
-            "type": "EditText"
+          "2_customer_name" : {
+            "hint" : "Customer Name",
+            "label" : "Customer Name",
+            "type" : "EditText"
           },
-          "3_amount_collected": {
-            "hint": "Amount Collected",
-            "label": "Amount Collected",
-            "type": "EditText"
+          "3_amount_collected" : {
+            "hint" : "Amount Collected",
+            "label" : "Amount Collected",
+            "type" : "EditText"
           },
-          "4_entered_by": {
-            "hint": "Collected By",
-            "label": "Collected By",
-            "type": "EditText"
+          "4_entered_by" : {
+            "hint" : "Collected By",
+            "label" : "Collected By",
+            "type" : "EditText"
           }
         },
-        "fields_order": ["row_id", "1_date", "2_customer_name", "3_amount_collected", "4_entered_by"],
-        "table_name": "collection"
+        "fields_order" : [ "row_id", "1_date", "2_customer_name", "3_amount_collected", "4_entered_by" ],
+        "table_name" : "collection"
       },
-      "complaints": {
-        "fields": {
-          "1_visit_date": {
-            "hint": "Reported Date [dd-MMM-yyyy]",
-            "label": "Reported Date [dd-MMM-yyyy]",
-            "type": "Date"
+      "complaints" : {
+        "fields" : {
+          "1_visit_date" : {
+            "hint" : "Reported Date [dd-MMM-yyyy]",
+            "label" : "Reported Date [dd-MMM-yyyy]",
+            "type" : "Date"
           },
-          "2_customer_name": {
-            "dropdownPath": "config-dropdowns-customers",
-            "hint": "Enter Customer Name",
-            "label": "Customer Name",
-            "type": "Dropdown"
+          "2_customer_name" : {
+            "dropdownPath" : "config-dropdowns-customers",
+            "hint" : "Enter Customer Name",
+            "label" : "Customer Name",
+            "type" : "Dropdown"
           },
-          "3_description": {
-            "hint": "Complaint Description",
-            "label": "Complaint Description",
-            "type": "EditText"
+          "3_description" : {
+            "hint" : "Complaint Description",
+            "label" : "Complaint Description",
+            "type" : "EditText"
           },
-          "4_customer_address": {
-            "hint": "Enter Customer Address",
-            "label": "Customer Address",
-            "type": "EditText"
+          "4_customer_address" : {
+            "hint" : "Enter Customer Address",
+            "label" : "Customer Address",
+            "type" : "EditText"
           },
-          "5_closed_date": {
-            "hint": "Closed Date",
-            "label": "Closed Date",
-            "type": "Date"
+          "5_closed_date" : {
+            "hint" : "Closed Date",
+            "label" : "Closed Date",
+            "type" : "Date"
           }
         },
-        "fields_order": ["row_id", "1_visit_date", "2_customer_name", "3_description", "4_customer_address", "5_closed_date"],
-        "menuName": "complaints",
-        "related_departments": {
-          "Complaints": "Complaints",
-          "Delivery": "Delivery",
-          "Sales": "Sales"
+        "fields_order" : [ "row_id", "1_visit_date", "2_customer_name", "3_description", "4_customer_address", "5_closed_date" ],
+        "menuName" : "complaints",
+        "related_departments" : {
+          "Complaints" : "Complaints",
+          "Delivery" : "Delivery",
+          "Sales" : "Sales"
         },
-        "tableName": "complaints"
+        "tableName" : "complaints"
       },
-      "sales_enquiries": {
-        "fields": {
-          "1_visit_date": {
-            "hint": "Reported Date [dd-MMM-yyyy]",
-            "label": "Reported Date [dd-MMM-yyyy]",
-            "type": "Date"
+      "inventory" : {
+        "fields" : {
+          "1_date" : {
+            "hint" : "Date",
+            "label" : "Date",
+            "type" : "EditText"
           },
-          "2_customer_name": {
-            "hint": "Enter Customer Name",
-            "label": "Customer Name",
-            "type": "EditText"
+          "2_product_id" : {
+            "hint" : "Product ID",
+            "label" : "Product ID",
+            "type" : "EditText"
           },
-          "3_description": {
-            "hint": "Enquiry",
-            "label": "Enquiry",
-            "type": "EditText"
+          "3_invoice_number" : {
+            "hint" : "Invoice Number",
+            "label" : "Invoice Number",
+            "type" : "EditText"
           },
-          "4_customer_address": {
-            "hint": "Enter Customer Address",
-            "label": "Customer Address",
-            "type": "EditText"
+          "4_in" : {
+            "hint" : "Incoming",
+            "label" : "Incoming",
+            "type" : "EditText"
           },
-          "5_sale_date": {
-            "hint": "Sale Date",
-            "label": "Sale Date",
-            "type": "Date"
+          "5_out" : {
+            "hint" : "Outgoing",
+            "label" : "Outgoing",
+            "type" : "EditText"
+          },
+          "6_notes" : {
+            "hint" : "Notes",
+            "label" : "Notes",
+            "type" : "EditText"
           }
         },
-        "fields_order": ["row_id", "1_visit_date", "2_customer_name", "3_description", "4_customer_address", "5_sale_date"],
-        "menuName": "sales_enquiries",
-        "related_departments": {
-          "Complaints": "Complaints",
-          "Delivery": "Delivery",
-          "Sales": "Sales"
+        "fields_order" : [ "row_id", "1_date", "2_product_id", "3_invoice_number", "4_in", "5_out", "6_notes" ],
+        "menuName" : "Inventory",
+        "tableName" : "inventory"
+      },
+      "sales_enquiries" : {
+        "fields" : {
+          "1_visit_date" : {
+            "hint" : "Reported Date [dd-MMM-yyyy]",
+            "label" : "Reported Date [dd-MMM-yyyy]",
+            "type" : "Date"
+          },
+          "2_customer_name" : {
+            "hint" : "Enter Customer Name",
+            "label" : "Customer Name",
+            "type" : "EditText"
+          },
+          "3_description" : {
+            "hint" : "Enquiry",
+            "label" : "Enquiry",
+            "type" : "EditText"
+          },
+          "4_customer_address" : {
+            "hint" : "Enter Customer Address",
+            "label" : "Customer Address",
+            "type" : "EditText"
+          },
+          "5_sale_date" : {
+            "hint" : "Sale Date",
+            "label" : "Sale Date",
+            "type" : "Date"
+          }
         },
-        "tableName": "sales_enquiries"
+        "fields_order" : [ "row_id", "1_visit_date", "2_customer_name", "3_description", "4_customer_address", "5_sale_date" ],
+        "menuName" : "sales_enquiries",
+        "related_departments" : {
+          "Complaints" : "Complaints",
+          "Delivery" : "Delivery",
+          "Sales" : "Sales"
+        },
+        "tableName" : "sales_enquiries"
       }
     },
-    "forms_stage_buttons": {
-      "collection": {
-        "closed": "Close",
-        "open": "Open"
+    "forms_stage_buttons" : {
+      "collection" : {
+        "closed" : "Close",
+        "open" : "Open"
       },
-      "complaints": {
-        "all": "ALL",
-        "closed": "Closed",
-        "inprogress": "In Progress",
-        "open": "Open",
-        "reopened": "Re Opened"
+      "complaints" : {
+        "all" : "ALL",
+        "closed" : "Closed",
+        "inprogress" : "In Progress",
+        "open" : "Open",
+        "reopened" : "Re Opened"
       },
-      "sales_enquiries": {
-        "closed": "Close",
-        "inprogress": "In Progress",
-        "open": "Open",
-        "reopened": "Re Open"
+      "inventory" : {
+        "all" : "ALL"
+      },
+      "sales_enquiries" : {
+        "closed" : "Close",
+        "inprogress" : "In Progress",
+        "open" : "Open",
+        "reopened" : "Re Open"
       }
     },
-    "roles": {
-      "admin": "isquarebsys@gmail.com"
-    }
-  },
-  "product_composition": {
-    "PS42": {
-      "Screws": 1
-    }
-  },
-  "sales_enquiries": {
-    "12-2-2018_-L57NlXpp0KF0zjuh1Go": {
-      "1_visit_date": "Reported Date",
-      "2_customer_name": "Vijay",
-      "3_description": "Geru",
-      "4_customer_address": "Geru",
-      "5_sale_date": "12-2-18"
+    "roles" : {
+      "admin" : "isquarebsys@gmail.com"
     },
-    "13-1-2019_-LW4pQeqpnoXLSpgsj5q": {
-      "1_visit_date": "13-Jan-2019",
-      "2_customer_name": "Test",
-      "3_description": "Sales entry requirement",
-      "4_customer_address": "Sundar VGN",
-      "5_sale_date": ""
+    "users" : {
+      "F98rihiMs6SfJ4OnrK4Jr9RLCvB2" : {
+        "usersMail" : "isquarebsys@gmail.com"
+      }
     }
   },
-  "sales_enquiries_assignee": {
-    "12-2-2018_-L57NlXpp0KF0zjuh1Go": "isquarebsys@gmail.com",
-    "13-1-2019_-LW4pQeqpnoXLSpgsj5q": "isquarebsys@gmail.com"
+  "inventory" : {
+    "28-12-2019_-LxBVus83I4LmDsddrxS" : {
+      "1_date" : "28-12-2019",
+      "2_product_id" : "ID001",
+      "3_invoice_number" : "IN001",
+      "4_in" : "23",
+      "5_out" : "45",
+      "6_notes" : ""
+    }
   },
-  "sales_enquiries_status": {
-    "12-2-2018_-L57NlXpp0KF0zjuh1Go": "In Progress",
-    "13-1-2019_-LW4pQeqpnoXLSpgsj5q": "Open"
+  "inventory_assignee" : {
+    "28-12-2019_-LxBVus83I4LmDsddrxS" : "isquarebsys@gmail.com"
+  },
+  "inventory_status" : {
+    "28-12-2019_-LxBVus83I4LmDsddrxS" : "Purchased"
+  },
+  "product_composition" : {
+    "PS42" : {
+      "Screws" : 1
+    }
+  },
+  "sales_enquiries" : {
+    "12-2-2018_-L57NlXpp0KF0zjuh1Go" : {
+      "1_visit_date" : "Reported Date",
+      "2_customer_name" : "Vijay",
+      "3_description" : "Geru",
+      "4_customer_address" : "Geru",
+      "5_sale_date" : "12-2-18"
+    },
+    "13-1-2019_-LW4pQeqpnoXLSpgsj5q" : {
+      "1_visit_date" : "13-Jan-2019",
+      "2_customer_name" : "Test",
+      "3_description" : "Sales entry requirement",
+      "4_customer_address" : "Sundar VGN",
+      "5_sale_date" : ""
+    },
+    "28-12-2019_-Lx8T3dcrDP-XuLkyhMt" : {
+      "1_visit_date" : "28-12-2019",
+      "2_customer_name" : "Vijay ",
+      "3_description" : "Offline test",
+      "4_customer_address" : "",
+      "5_sale_date" : ""
+    },
+    "28-12-2019_-Lx8TW6PwIcyJi8ijy3L" : {
+      "1_visit_date" : "28-12-2019",
+      "2_customer_name" : "Vijay",
+      "3_description" : "Offline test 2",
+      "4_customer_address" : "",
+      "5_sale_date" : ""
+    }
+  },
+  "sales_enquiries_assignee" : {
+    "12-2-2018_-L57NlXpp0KF0zjuh1Go" : "isquarebsys@gmail.com",
+    "13-1-2019_-LW4pQeqpnoXLSpgsj5q" : "isquarebsys@gmail.com",
+    "28-12-2019_-Lx8T3dcrDP-XuLkyhMt" : "isquarebsys@gmail.com",
+    "28-12-2019_-Lx8TW6PwIcyJi8ijy3L" : "isquarebsys@gmail.com"
+  },
+  "sales_enquiries_status" : {
+    "12-2-2018_-L57NlXpp0KF0zjuh1Go" : "In Progress",
+    "13-1-2019_-LW4pQeqpnoXLSpgsj5q" : "Open",
+    "28-12-2019_-Lx8T3dcrDP-XuLkyhMt" : "Open",
+    "28-12-2019_-Lx8TW6PwIcyJi8ijy3L" : "In Progress"
   }
 }
